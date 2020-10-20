@@ -1,4 +1,4 @@
-# scottcrosspuns
+# ScottCrossPuns Crossword Puzzle Generating Algorithm
 This summer, I've ventured into a new world by opening up an Etsy store to sell crossword puzzles. While generating my first few puzzles, I couldn't help but notice that my process of generating puzzles was inefficient, so I set out to create my own better solution. 
 
 This algorithm takes two main inputs: a number n to generate an nxn crossword puzzle and a list of names or words that need to be imputted into the puzzle. Given these inputs, the algorithm looks for the best, most compact puzzles I can provide for my clients.
