@@ -5,5 +5,5 @@ This algorithm takes two main inputs: a number n to generate an nxn crossword pu
 
 I'm still tinkering with ways I can make this puzzle generation more efficient, but I think my solution is the best publicly accessible crossword puzzle algorithm I've seen. If you find this algorithm interesting and also happen to enjoy puns, feel free to check out my Etsy shop below:
 
-https://www.etsy.com/shop/ScottCrossPuns?ref=l2-about-shopname
+https://www.etsy.com/shop/ScottCrossPuns
 
